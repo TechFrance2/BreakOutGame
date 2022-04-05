@@ -18,3 +18,10 @@
   height: 20px;
   background-color: blue;
 }
+
+.ball {
+  width: 15px;
+  height: 15px;
+  border-radius: 6px;
+  background-color: red;
+}
