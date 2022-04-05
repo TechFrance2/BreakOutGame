@@ -18,12 +18,14 @@ Purpose of the Game – using a paddle and ball, a player must eliminate all the
 
 [] The Bricks
 [] Ball and Paddle
-
+[] Images Effectors
 - will all be styled with different colors
 
-[] Technology Used:
+[+] Technology Used: added for styles in development.
 
 - JavaScript
+- Tailwind
+- Google Fonts
 
 Time Line: Will be done over the course of a week, work on feature/requirement at a time
 
