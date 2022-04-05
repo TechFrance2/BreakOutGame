@@ -2,7 +2,7 @@ const grid = document.querySelector(".grid");
 const blockWidth = 100;
 const blockHeight = 15;
 
-const userStart = [120, 100];
+const userStart = [230, 10];
 let currentPosition = userStart;
 
 //create Block
